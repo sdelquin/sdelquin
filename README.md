@@ -1,5 +1,3 @@
-# This is Sergio
-
 **Hi there! 👋** &nbsp; I hope any of my projects can help you. This makes me happy.
 
 ![Profile Picture](https://github.com/sdelquin/sdelquin/blob/master/panoramic-sdelquin.jpg)
